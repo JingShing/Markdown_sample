@@ -1,4 +1,4 @@
-[English]((README.md)) | 繁體中文
+[English](README.md) | 繁體中文
 # Markdown_範例
 一個幫助你寫 markdown 的文章。
 
