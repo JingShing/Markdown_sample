@@ -59,3 +59,9 @@ This originally is for my frient to learn how to write markdown. But unfortunate
 ```
 - [ ] task
 - [X] complete task
+
+## Diff
+```diff
++ increase
+- decrease
+```
