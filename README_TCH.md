@@ -62,3 +62,9 @@ This originally is for my frient to learn how to write markdown. But unfortunate
 ```
 - [ ] 工作
 - [X] 完成好的工作
+
+## 差異
+```diff
++ 增加
+- 減少
+```
