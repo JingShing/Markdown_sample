@@ -61,6 +61,12 @@ This originally is for my frient to learn how to write markdown. But unfortunate
 - [X] complete task
 
 ## Diff
+```
+‵‵‵diff
++ increase
+- decrease
+‵‵‵
+```
 ```diff
 + increase
 - decrease
