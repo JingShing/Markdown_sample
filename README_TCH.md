@@ -64,6 +64,13 @@ This originally is for my frient to learn how to write markdown. But unfortunate
 - [X] 完成好的工作
 
 ## 差異
+
+```
+‵‵‵diff
++ increase
+- decrease
+‵‵‵
+```
 ```diff
 + 增加
 - 減少
