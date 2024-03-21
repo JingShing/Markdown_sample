@@ -10,6 +10,9 @@ This originally is for my frient to learn how to write markdown. But unfortunate
 ## 2nd Title
 ### 3rd Title
 ```
+# Title
+## 2nd Title
+### 3rd Title
 
 ## list
 ```
