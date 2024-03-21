@@ -13,6 +13,9 @@ This originally is for my frient to learn how to write markdown. But unfortunate
 ## 次要標題
 ### 更次要標題
 ```
+# 標題
+## 次要標題
+### 更次要標題
 
 ## 列表
 ```
