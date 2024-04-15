@@ -1,4 +1,4 @@
-![image](https://github.com/JingShing/Markdown_sample/assets/23427084/4fcc07ff-d952-4610-add4-40122ac26815)English | [繁體中文](README_TCH.md)
+English | [繁體中文](README_TCH.md)
 # Markdown_sample
 A sample for markdown writing.
 
