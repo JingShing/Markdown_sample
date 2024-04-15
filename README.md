@@ -1,4 +1,4 @@
-English | [繁體中文](README_TCH.md)
+![image](https://github.com/JingShing/Markdown_sample/assets/23427084/4fcc07ff-d952-4610-add4-40122ac26815)English | [繁體中文](README_TCH.md)
 # Markdown_sample
 A sample for markdown writing.
 
@@ -73,4 +73,24 @@ This originally is for my frient to learn how to write markdown. But unfortunate
 ```diff
 + increase
 - decrease
+```
+
+## Mermaid graph
+> Example will display below, you can find detailed syntax online
+```
+‵‵‵mermaid
+graph LR
+	A[Write Code] --> B{Does it work?}
+	B -- Yes --> C[Great!]
+	B -- No --> D[Google]
+	D --> A
+‵‵‵
+```
+
+```mermaid
+graph LR
+	A[Write Code] --> B{Does it work?}
+	B -- Yes --> C[Great!]
+	B -- No --> D[Google]
+	D --> A
 ```
