@@ -78,3 +78,23 @@ This originally is for my frient to learn how to write markdown. But unfortunate
 + 增加
 - 減少
 ```
+
+## Mermaid 製圖
+> 底下會有範例，詳細語法請自行搜索
+```
+‵‵‵mermaid
+graph LR
+	A[Write Code] --> B{Does it work?}
+	B -- Yes --> C[Great!]
+	B -- No --> D[Google]
+	D --> A
+‵‵‵
+```
+
+```mermaid
+graph LR
+	A[Write Code] --> B{Does it work?}
+	B -- Yes --> C[Great!]
+	B -- No --> D[Google]
+	D --> A
+```
